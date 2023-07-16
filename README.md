@@ -64,4 +64,4 @@ Este exemplo faz uma requisição para obter as informações do personagem com 
 ## Considerações Finais
 
 A API do Rick and Morty fornece uma maneira fácil de obter informações sobre os personagens da série. É uma fonte valiosa de dados para desenvolvedores que desejam criar aplicativos, jogos ou qualquer outro projeto relacionado ao universo de Rick and Morty.
-Para mais detalhes sobre os endpoints e parâmetros disponíveis, consulte a documentação oficial da API. Divirta-se explorando os personagens e criando projetos incríveis com base nesses dados!
+Para mais detalhes sobre os endpoints e parâmetros disponíveis, consulte a documentação oficial da API.
