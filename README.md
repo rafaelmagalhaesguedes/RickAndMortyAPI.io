@@ -2,7 +2,7 @@
 
 Essa é uma API de consumo dos dados da série animada Rick and Morty. Ela fornece informações sobre os personagens, como nome, status, espécie, gênero, planeta de origem e episódios em que aparecem.
 
-## Link live: https://rafaelmagalhaesguedes.github.io/RickAndMortyAPI.io/
+#### Link live: https://rafaelmagalhaesguedes.github.io/RickAndMortyAPI.io/
 
 
 ## Documentação da API
@@ -34,7 +34,7 @@ Retorna a lista de todos os personagens da série.
 
     GET /api/character/{id}
 
-    Substitua {id} pelo ID do personagem desejado. Retorna informações detalhadas sobre o personagem correspondente.
+Substitua {id} pelo ID do personagem desejado. Retorna informações detalhadas sobre o personagem correspondente.
 
 ## Uso da API
 
@@ -44,7 +44,7 @@ A API do Rick and Morty é pública e pode ser usada para obter informações so
 
 Aqui está um exemplo de código JavaScript usando a biblioteca Fetch para consumir a API do Rick and Morty:
 
-    **javascript**
+**javascript**
 
     const fetchCharacter = async (id) => {
     try {
