@@ -2,7 +2,7 @@
 
 Essa é uma API de consumo dos dados da série animada Rick and Morty. Ela fornece informações sobre os personagens, como nome, status, espécie, gênero, planeta de origem e episódios em que aparecem.
 
-#### https://rafaelmagalhaesguedes.github.io/RickAndMortyAPI.io/
+#### Live link: https://rafaelmagalhaesguedes.github.io/RickAndMortyAPI.io/
 
 ## Documentação da API
 ### Endpoint
